@@ -13,6 +13,8 @@ RAM用户的登录有以下几种方式：
 -   方式一：`<$username>@<$AccountAlias>.onaliyun.com`。例如：username@company-alias.onaliyun.com。
 
     **说明：** RAM用户登录账号为UPN（User Principal Name）格式，即RAM控制台用户列表中所见的用户登录名称。<$username\>为RAM用户名称，<$AccountAlias\>.onaliyun.com为默认域名。
+    
+    AccountAlias是从天上掉下来的吧？在哪设置？
 
 -   方式二：`<$username>@<$AccountAlias>`。例如：username@company-alias。
 
